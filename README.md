@@ -16,7 +16,13 @@
 ![CSS5](https://img.shields.io/badge/CSS-%23E34F26.svg?style=flat-square&logo=CSS3&logoColor=white)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF)]()
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+
 ### :cake: INFO  :cake:
-[![KAKAO Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=KaiOS&logoColor=white&link=mailto:matthew624@kakao.com)](mailto:gi2570@naver.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=TV%20Time&logoColor=FFFFFF&link=https://changsroad.tistory.com/)](https://changsroad.tistory.com/)
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongjiyeon315%2Fhit-counter&count_bg=%236667AB&title_bg=%23181717&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>&nbsp
+  <a href="https://www.instagram.com/dncjf615/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/dncjf615/"/></a>&nbsp
+  <a href="mailto:ucheol7175@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ucheol7175@gmail.com"/></a>
+</p>
 </div>
+
+
